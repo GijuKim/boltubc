@@ -31,7 +31,7 @@ function BoltUBCTitleMobile() {
                             margin: '0 auto',
                             borderRadius: '500px',
                             backgroundColor: '#623CE8',
-                            translateY: '15%',
+                            translateY: '440%',
                             color: 'white',
                             textAlign: 'center',
                         }}
@@ -54,6 +54,8 @@ function BoltUBCTitleMobile() {
                             }}
                             className='becomeourpartner member-button'><a href="https://docs.google.com/forms/d/e/1FAIpQLScGMtIY9xvBwmxM-29JsCiem7Mqpx6H7qAZCiVEq7i5amVK-w/viewform" style={{ color: 'white', textDecoration: 'none' }}>Become a Member!</a>
                         </motion.p>
+
+                        
                     </motion.div>
         </div>
     );
